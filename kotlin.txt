@@ -1,6 +1,2 @@
-clear
-clear
-[A[A[A[A[A[A[A[A[A[A[A[A[C[C[A[C[C[C[C[C[C[C[C[C[C[C[[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[C[[A[F[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[A[A[C[C[C[C[C[C[C[C[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[Acat > kotlin.txt
 Dina Merari Monsalve Tapias
 meraritapias3@gmail.com
